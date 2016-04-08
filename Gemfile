@@ -6,7 +6,3 @@ gem 'rspec', '~> 3.4'
 
 gem 'pry-remote'
 gem 'pry-nav'
-
-group :test do
-  gem 'pry-byebug'
-end
