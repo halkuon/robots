@@ -17,7 +17,7 @@ class Robot
   end
 
   def coordinates
-
+    [1,2]
   end
 
 
